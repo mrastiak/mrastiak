@@ -68,7 +68,7 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mrastiak&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=gotham" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mrastiak&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=gotham&hide=contribs" align="center" /></div>
 
 </td><td valign="top" width="50%">
 
