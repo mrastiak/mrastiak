@@ -65,11 +65,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mrastiak&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=noctis_minimus" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mrastiak&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=gotham" align="center" /></div>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrastiak&hide_border=true&layout=compact&theme=noctis_minimus" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrastiak&hide_border=true&layout=compact&theme=gotham" align="left" />
 
 </td></tr></table>  
 
